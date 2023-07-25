@@ -20,7 +20,7 @@ public class YandexTest {
 
     @Test
     void  regTest() {
-        open("https://ya.ru");
+        //TODO IMPIMENT
 
     }
 }
