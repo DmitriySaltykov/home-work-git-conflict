@@ -20,6 +20,7 @@ public class YandexTest {
 
     @Test
     void  regTest() {
+        //TODO IMPIMENT
 
     }
 }
